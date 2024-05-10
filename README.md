@@ -57,3 +57,14 @@
 
 - `docker build -t node-app:1.0 .`: Build Docker image.
 - `docker run -d -p 3000:3000 node-app:1.0`: Run container.
+
+
+
+
+<img width="778" alt="image" src="https://github.com/shalini47ch/docker-practice/assets/60210475/f260c144-3c5f-40b6-b841-5737f19639f9">
+
+<img width="752" alt="image" src="https://github.com/shalini47ch/docker-practice/assets/60210475/37358892-f8a7-4454-b30c-0b33586b671a">
+
+<img width="764" alt="image" src="https://github.com/shalini47ch/docker-practice/assets/60210475/f1d1492c-d9b1-47db-ad0f-5777497aa326">
+
+
